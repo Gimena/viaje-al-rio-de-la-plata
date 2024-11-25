@@ -15,7 +15,7 @@ La presente edición digital ofrece tres posibilidades de intervención textual:
 El texto de esta edición digital se tomó de *Historia de Argentina: desde el descubrimiento, población y conquista de las provincias del Río de La Plata hasta nuestros días*. Tomo III, Buenos Aires, Imprenta de la Revista, 1854. Se comparte a través de la licencia [Creative Commons 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 Citar esta edición como: 
-c
+
 <p style="font-size: 14px;">del Rio Riande, Gimena, De León, Romina, Calaro, Gabriel, Volkind, Laura, Spinelli, Julián, y Hernández, Nidia (eds.).(2024). Ulrico Schmidel. <i>Viaje al Río de la Plata</i>. HD Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/Argentina-y-conquista-del-Rio-de-la-plata/</a> [Fecha de consulta]</p>
 
 Repositorio de datos: <a class="no-underline" href="https://zenodo.org/doi/10.5281/zenodo.10278565"><img src="https://zenodo.org/badge/346828059.svg" alt="DOI"></a>
